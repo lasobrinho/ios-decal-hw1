@@ -22,7 +22,7 @@ class Words {
 //: ### variables the same type? If not, why?
 
 
-//: Yes. The vaue passed to the **init** function are String optionals and the value passed to the variables are implicitly unwrapped optionals.
+//: No. The vaue passed to the **init** function are String optionals and the value passed to the variables are implicitly unwrapped optionals.
 
 
 //: ## Q2: Variable Types and Function Types
